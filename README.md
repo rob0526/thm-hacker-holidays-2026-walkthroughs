@@ -1,7 +1,6 @@
 # 🏖️ TryHackMe: Hacker Holidays 2026 Writeups
 
 [![TryHackMe Event](https://img.shields.io/badge/TryHackMe-Hacker%20Holidays%202026-212C42?logo=tryhackme)](https://tryhackme.com/hackerholidays)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Welcome to my repository containing detailed writeups, walkthroughs, and solution guides for the **TryHackMe Hacker Holidays 2026** event rooms.
 
