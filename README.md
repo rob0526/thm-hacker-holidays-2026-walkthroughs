@@ -16,7 +16,7 @@ Welcome to my repository containing detailed writeups, walkthroughs, and solutio
 
 | Day / Room Name | Category | Difficulty | Status | Writeup Link |
 | :--- | :--- | :---: | :---: | :---: |
-| **Day 01** - *The Concierge Knows Too Much* | Prompt Injection / Social Engineering | Easy | 🟢 Completed | [View Writeup](./day-01/) |
+| **Day 01** - *The Concierge Knows Too Much* | Prompt Injection / Social Engineering | Very Easy | 🟢 Completed | [View Writeup](./day-01/) |
 
 ---
 
