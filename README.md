@@ -19,6 +19,8 @@ Welcome to my repository containing detailed writeups, walkthroughs, and solutio
 | **Day 01** - *The Concierge Knows Too Much* | Prompt Injection / Social Engineering | Very Easy | 🟢 Completed | [View Writeup](./day-01/) |
 | **Day 02** - *Room 404* | Web - Directory Enumeration | Very Easy | 🟢 Completed | [View Writeup](./day-02/) |
 | **Day 03** - *Complimentary* | Cloud - AWS / Identity & Access Management | Easy | 🟢 Completed | [View Writeup](./day-03/) |
+| **Day 04** - *Packed Light* | Network Forensics / PCAP Analysis | Easy | 🟢 Completed | [View Writeup](./day-04/) |
+
 ---
 
 ## 📂 Repository Structure
