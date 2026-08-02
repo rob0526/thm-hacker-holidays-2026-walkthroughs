@@ -21,6 +21,7 @@ Welcome to my repository containing detailed writeups, walkthroughs, and solutio
 | **Day 03** - *Complimentary* | Cloud - AWS / Identity & Access Management | Easy | 🟢 Completed | [View Writeup](./day-03/) |
 | **Day 04** - *Packed Light* | Network Forensics / PCAP Analysis | Easy | 🟢 Completed | [View Writeup](./day-04/) |
 | **Day 05** - *Beach Bar* | Web / Boot2Root  | Easy | 🟢 Completed | [View Writeup](./day-05/) |
+| **Day 06** - *Overheard at Breakfast* | OSINT  | Easy | 🟢 Completed | [View Writeup](./day-06/) |
 
 ---
 
