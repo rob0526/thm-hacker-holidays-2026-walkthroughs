@@ -20,6 +20,7 @@ Welcome to my repository containing detailed writeups, walkthroughs, and solutio
 | **Day 02** - *Room 404* | Web - Directory Enumeration | Very Easy | 🟢 Completed | [View Writeup](./day-02/) |
 | **Day 03** - *Complimentary* | Cloud - AWS / Identity & Access Management | Easy | 🟢 Completed | [View Writeup](./day-03/) |
 | **Day 04** - *Packed Light* | Network Forensics / PCAP Analysis | Easy | 🟢 Completed | [View Writeup](./day-04/) |
+| **Day 05** - *Beach Bar* | Web / Boot2Root  | Easy | 🟢 Completed | [View Writeup](./day-05/) |
 
 ---
 
