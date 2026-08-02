@@ -112,7 +112,7 @@ playlist:
 
 Paste this into the textarea at `http://<target-ip>/import` and submit. 
 
-![import-yaml](./day5-images/import-yaml.png)
+![import-yaml](./images/import-yaml.png)
 
 The response shows:
 
