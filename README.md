@@ -23,7 +23,7 @@ Welcome to my repository containing detailed writeups, walkthroughs, and solutio
 | **Day 05** - *Beach Bar* | Web / Boot2Root  | Easy | 🟢 Completed | [View Writeup](./day-05/) |
 | **Day 06** - *Overheard at Breakfast* | OSINT  | Easy | 🟢 Completed | [View Writeup](./day-06/) |
 | **Day 07** - *Do Not Disturb* | Web / boot2root  | Medium | 🟢 Completed | [View Writeup](./day-07/) |
-| **Day 07** - *Towel on the Sunbed* | Web Exploitation / Business Logic  | Medium | 🟢 Completed | [View Writeup](./day-08/) |
+| **Day 08** - *Towel on the Sunbed* | Web Exploitation / Business Logic  | Medium | 🟢 Completed | [View Writeup](./day-08/) |
 
 ---
 
