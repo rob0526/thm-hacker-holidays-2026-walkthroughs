@@ -24,6 +24,9 @@ Welcome to my repository containing detailed writeups, walkthroughs, and solutio
 | **Day 06** - *Overheard at Breakfast* | OSINT  | Easy | 🟢 Completed | [View Writeup](./day-06/) |
 | **Day 07** - *Do Not Disturb* | Web / boot2root  | Medium | 🟢 Completed | [View Writeup](./day-07/) |
 | **Day 08** - *Towel on the Sunbed* | Web Exploitation / Business Logic  | Medium | 🟢 Completed | [View Writeup](./day-08/) |
+| **Day 09** - *CryptoCabana* | Cloud / Azure / Storage / Key Vault | 🟢 Completed | [View Writeup](./day-09/) |
+
+
 
 ---
 
